@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center" margin-top="30px">✨ Creating bugs since 2019<br>📚 I'm currently learning: React/Typescript</p>
+<p align="center" margin-top="300px">✨ Creating bugs since 2019<br>📚 I'm currently learning: React/Typescript</p>
 
 ###
 
