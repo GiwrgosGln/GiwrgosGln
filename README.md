@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="center">💻Tech Stack:</h2>
+<h2 align="center">💻 Tech Stack:</h2>
 
 ###
 
-<div align="center">
+<div align="center" class="animate-slide-in-left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
@@ -41,9 +41,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiwrgosGln&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
 
 <style>
   /* CSS Animation */
