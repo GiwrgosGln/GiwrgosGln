@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">💻 Tech Stack:</h2>
+<h1 align="center">💻 Tech Stack:</h1>
 
 ###
 
