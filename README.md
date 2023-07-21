@@ -1,8 +1,3 @@
-# 💫 Web Developer
-
-
-
-
 <h1 align="center">Frontend Engineer</h1>
 
 ###
