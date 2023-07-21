@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning: React/Typescript</p>
+<p align="center">✨ Creating bugs since 2019<br>📚 I'm currently learning: React/Typescript</p>
 
 ###
 
