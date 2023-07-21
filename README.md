@@ -6,9 +6,8 @@
 
 ###
 
-<div align="center">
-  # 💻 Tech Stack:
-</div>
+
+# 💻 Tech Stack:
 
 ###
 
