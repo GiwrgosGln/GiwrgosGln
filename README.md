@@ -42,29 +42,47 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiwrgosGln&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<style>
-  /* CSS Animation */
-  @keyframes slideInLeft {
-    0% {
-      transform: translateX(-100%);
-      opacity: 0;
-    }
-    100% {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
+<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.tags {
+					display: flex;
+					flex-wrap: wrap;
+					height: 100%;
+					width: 100%;
+				}
+				.tag {
+					background-color: #e3ffff;
+					border-radius: 0.25em;
+					color: #0ca4a5;
+					border: 1px solid #0ca4a5;
+					display: inline-block;
+					font-size: 0.75em;
+					line-height: 2em;
+					margin: 0.125em;
+					padding: 0 0.5em;
+					text-decoration: none;
+					font-family: sans-serif;
+				}
+			</style>
 
-  /* Apply animation to the tech stack div */
-  .animate-slide-in-left {
-    animation: slideInLeft 1s ease-in-out;
-  }
-</style>
-
-<script>
-  // JavaScript to add the animation class after a delay
-  setTimeout(function() {
-    const techStackDiv = document.querySelector(".animate-slide-in-left");
-    techStackDiv.classList.add("animate-slide-in-left");
-  }, 500); // Change the delay as per your preference
-</script>
+			<div class="tags">
+				<div class="tag">Angular</div>
+				<div class="tag">Vue(X)</div>
+				<div class="tag">JavaScript</div>
+				<div class="tag">TypeScript</div>
+			</div>
+			<div class="tags">
+				<div class="tag">(S)CSS</div>
+				<div class="tag">Building UIs</div>
+				<div class="tag">Web Components</div>
+			</div>
+			<div class="tags">
+				<div class="tag">Ionic</div>
+				<div class="tag">Electron</div>
+				<div class="tag">.NET</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
