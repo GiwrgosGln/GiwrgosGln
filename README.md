@@ -2,7 +2,7 @@
 
 
 
-# 💻 Tech Stack:
+
 <h1 align="center">Frontend Engineer</h1>
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="center">I code with</h2>
+# 💻 Tech Stack:
 
 ###
 
