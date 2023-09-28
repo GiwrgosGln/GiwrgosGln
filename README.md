@@ -29,7 +29,7 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="15" />
-  <img src="https://decodenatura.com/static/08c5c12e5827e66576c742cd05aa8d28/bc59e/expo-logo-black.png" height="40" alt="expo"  />
+  <img src="https://logowik.com/content/uploads/images/expo4769.logowik.com.webp" height="40" alt="expo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
