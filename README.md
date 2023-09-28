@@ -31,7 +31,7 @@
   <img width="15" />
   <img src="https://icons-for-free.com/iconfiles/png/512/Expo-1329545818230359497.png" height="40" alt="expo logo"  />
   <img width="15" />
-  <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" height="40" alt="redux logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="40" alt="redux logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
