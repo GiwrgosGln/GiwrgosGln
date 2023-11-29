@@ -1,10 +1,10 @@
-<h1 align="center">Web Developer</h1>
+<h1 align="center">Software Developer</h1>
 
 ###
 
 <br clear="both">
 
-<p align="center">✨ Creating bugs since 2019<br>📚 I'm currently learning: React Native/Redux</p>
+<p align="center">✨ Creating bugs since 2019<br>📚 I'm currently learning: Go</p>
 
 ###
 
