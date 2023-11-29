@@ -29,7 +29,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="15" />
-  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" height="40" alt="golang logo"  />
+  <img src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo.png" height="40" alt="golang logo"  />
 </div>
 
 ###
