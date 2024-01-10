@@ -23,13 +23,11 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="15" />
-  <img src="https://icons-for-free.com/iconfiles/png/512/Expo-1329545818230359497.png" height="40" alt="expo logo"  />
+  <img src="https://static.expo.dev/static/brand/square-512x512.png" height="40" alt="expo logo"  />
   <img width="15" />
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="40" alt="redux logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://i.pinimg.com/originals/9c/1a/7b/9c1a7b98ba1e02023393846c9509c587.png" height="40" alt="golang logo"  />
 </div>
 
 ###
