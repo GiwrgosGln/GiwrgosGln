@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">📚 I'm currently learning: Go & Redux</p>
+<p align="center">📚 I'm currently learning: Redux & Docker</p>
 
 ###
 
