@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://storage.subs.noventiq.com/public/images/market_setting/logotype/53583/SQL1.png" height="40" alt="MS SQL Server logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" height="40" alt="PostgreSQL logo"  />
 </div>
 
 ###
