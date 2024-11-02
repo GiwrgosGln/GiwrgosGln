@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-- 🌱 I’m currently learning **Docker, RabbitMQ**
+- 🌱 I’m currently learning **Docker, RabbitMQ and Redis**
 
 - 👨‍💻 All of my projects are available at [https://portfolio.glns-services.fyi/](https://portfolio.glns-services.fyi/)
 
