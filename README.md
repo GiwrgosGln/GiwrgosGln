@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack Developer</h1>
+![image](https://github.com/user-attachments/assets/6f5dae2c-fdd1-4d8c-93ba-d33886be9939)<h1 align="center">Full Stack Developer</h1>
 
 ###
 
@@ -37,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://storage.subs.noventiq.com/public/images/market_setting/logotype/53583/SQL1.png" height="40" alt="MS SQL Server logo"  />
 </div>
 
 ###
