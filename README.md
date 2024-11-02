@@ -2,6 +2,9 @@
 
 ###
 
+<h1 align="center">Hi 👋, I'm Giwrgos</h1>
+<h3 align="center">A passionate software developer from Greece</h3>
+
 <br clear="both">
 
 - 🌱 I’m currently learning **Docker**
