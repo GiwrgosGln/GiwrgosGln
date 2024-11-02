@@ -4,7 +4,18 @@
 
 <br clear="both">
 
-<p align="center">📚 I'm currently learning: Azure</p>
+- 🌱 I’m currently learning **Docker**
+
+- 👨‍💻 All of my projects are available at [https://portfolio.glns-services.fyi/](https://portfolio.glns-services.fyi/)
+
+- 📫 How to reach me **georgios.glinias@gmail.com**
+
+- ⚡ Fun fact **The First Computer “Bug” Was a Real Bug.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/giwrgos glinias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giwrgos glinias" height="30" width="40" /></a>
+</p>
 
 ###
 
