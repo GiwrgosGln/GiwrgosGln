@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6f5dae2c-fdd1-4d8c-93ba-d33886be9939)<h1 align="center">Full Stack Developer</h1>
+<h1 align="center">Full Stack Developer</h1>
 
 ###
 
