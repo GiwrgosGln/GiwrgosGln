@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Docker, RabbitMQ and Redis**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.glns-services.fyi/](https://portfolio.glns-services.fyi/)
-
 - 📫 How to reach me **georgios.glinias@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
