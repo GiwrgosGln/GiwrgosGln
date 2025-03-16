@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning **Docker, Kubernetes and Azure**
 
-- 👨‍💻 All of my projects are available at [https://glns.dev](https://glns.dev)
+- 👨‍💻 All of my projects are available at [glns.dev](https://glns.dev)
 
 - 💬 Ask me about **next.js, typescript, framer motion, node.js**
 
@@ -16,7 +16,7 @@
 <p align="left">
 <!-- <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,postman,vscode,webstorm,vercel,vite,powershell,bash,linux,mysql,md,firebase,cloudflare,java,c,py"/> -->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py,docker)](https://glns.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,cs,nextjs,vite,react,tailwind,redux,git,github,nodejs,express,postman,vscode,vercel)](https://glns.dev)
 
   <!-- jest -->
 </p>
