@@ -4,9 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [glns.dev](https://glns.dev)
 
-- 💬 Ask me about **next.js, typescript, framer motion, node.js**
-
-- 📫 How to reach me **<glinias.georgios@gmail.com>**
+- 📫 How to reach me **<georgios.glinias@gmail.com>**
 
 <br/>
 
